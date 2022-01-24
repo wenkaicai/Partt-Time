@@ -1,0 +1,8 @@
+Doge sitter
+
+You have been hired to manage a "daycare" full of puppies. These puppies need to get enough food, water, and 
+playtime to feel as happy as possible. Each puppy has a meter above them that indicates how fulfilled they 
+are in each category. Place a puppy near a food bowl (green dot), water bowl (blue dot), or chew toy (red dot) 
+to increase fulfillment in the corresponding category. However, puppies get distracted. Don't be surprised if
+you find your puppies wandering off somewhere. Once the time is up, you will be awarded points based on the 
+average happiness of your puppies.

@@ -1,0 +1,8 @@
+Instructions
+Space: roll the dice
+F1: add players
+Choose the direction by arrow keys when in an intersection red decrease 3 points
+Blue increase 3 points
+Red decrease 3 points
+S to save game
+L to load game

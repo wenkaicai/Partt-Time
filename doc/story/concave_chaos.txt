@@ -1,0 +1,6 @@
+Stronger than popeye
+
+In this stage, you and other players enter a Hercules competition. Only the most potent player can 
+win the game. The objective is to push the non -convex objects out of the screen as fast as possible. 
+The surface of the objects is smooth, so only pushing from specific sides works. Try your best to 
+win the reward!

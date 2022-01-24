@@ -1,0 +1,11 @@
+Planit: Get the energy!
+
+There are packs of energy found beside a planet. You and other players decided to each grab
+a pack to refill the spaceship. Shooting straight towards the energy is dangerous with the bursting
+speed. The good news is that the planet has been detected with intense gravity. Utilize the gravity to
+float like a boomerang to decrease the speed; doing this allows you to be safe!
+
+
+Instructions:
+
+Use the mouse to choose an angle to fly around the planet

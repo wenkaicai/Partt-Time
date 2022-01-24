@@ -1,0 +1,10 @@
+Survive in space
+
+In this stage, you and the other players are in outer space fixing the spaceship. After fixing, meteorites 
+are floating towards you. This is a chance to show others that you have better skills surviving.
+Try and dodge the meteorites as long as possible to earn more points.
+
+Instructions:
+
+Use the up, down, left, right keys to move
+Try to survive longer than others before you get hit!

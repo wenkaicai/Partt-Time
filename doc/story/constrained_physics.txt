@@ -1,0 +1,5 @@
+Crossing obstacles
+
+At this stage, you and the other players have to navigate a dangerous path. In the middle of the map, there is a device throwing 
+revolving weapons. The player has to get to the right side of the map as quickly as possible, and avoid any weapons that come at 
+any time. The game tests not only the player's judgment but also your courage.
